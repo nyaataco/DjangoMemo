@@ -1,0 +1,5 @@
+*.log
+*.pot
+*.pyc
+__pychache__/
+django_memo/local_settings.py
