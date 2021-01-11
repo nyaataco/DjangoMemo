@@ -1,1 +1,1 @@
-web: gnicorn django_memo.wsgi --log-file -
+web: gunicorn django_memo.wsgi --log-file -
